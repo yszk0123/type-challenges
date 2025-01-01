@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "type-challenges",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "npx @biomejs/biome format --write src",
+    "lint": "npx @biomejs/biome lint --write src",
+    "check": "npx @biomejs/biome check --write src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@type-challenges/utils": "0.1.1",
+    "typescript": "5.7.2"
+  }
+}
