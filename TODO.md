@@ -1,0 +1,204 @@
+https://github.com/type-challenges/type-challenges/blob/f11cbc4fd96b20b7c8728e78ef7e77375f8992e4/README.ja.md
+
+## お試し (1)
+
+- [x] 13・Hello World
+
+## 初級 (13)
+
+- [x] 4・Pick
+- [x] 7・Readonly
+- [x] 11・Tuple to Object
+- [ ] 14・First of Array
+- [ ] 18・Length of Tuple
+- [ ] 43・Exclude
+- [ ] 189・Awaited
+- [x] 268・If
+- [x] 533・Concat
+- [ ] 898・Includes
+- [x] 3057・Push
+- [x] 3060・Unshift
+- [ ] 3312・Parameters
+
+## 中級 (102)
+
+- [x] 2・Get Return Type
+- [x] 3・Omit
+- [ ] 8・Readonly 2
+- [ ] 9・Deep Readonly
+- [ ] 10・Tuple to Union
+- [ ] 12・Chainable Options
+- [ ] 15・Last of Array
+- [x] 16・Pop
+- [ ] 20・Promise.all
+- [ ] 62・Type Lookup
+- [x] 106・Trim Left
+- [ ] 108・Trim
+- [x] 110・Capitalize
+- [x] 116・Replace
+- [ ] 119・ReplaceAll
+- [ ] 191・Append Argument
+- [x] 296・Permutation
+- [ ] 298・Length of String
+- [ ] 459・Flatten
+- [ ] 527・Append to object
+- [ ] 529・Absolute
+- [ ] 531・String to Union
+- [ ] 599・Merge
+- [ ] 612・KebabCase
+- [ ] 645・Diff
+- [ ] 949・AnyOf
+- [ ] 1042・IsNever
+- [ ] 1097・IsUnion
+- [ ] 1130・ReplaceKeys
+- [ ] 1367・Remove Index Signature
+- [ ] 1978・Percentage Parser
+- [ ] 2070・Drop Char
+- [ ] 2257・MinusOne
+- [ ] 2595・PickByType
+- [ ] 2688・StartsWith
+- [ ] 2693・EndsWith
+- [ ] 2757・PartialByKeys
+- [ ] 2759・RequiredByKeys
+- [ ] 2793・Mutable
+- [ ] 2852・OmitByType
+- [ ] 2946・ObjectEntries
+- [ ] 3062・Shift
+- [ ] 3188・Tuple to Nested Object
+- [ ] 3192・Reverse
+- [ ] 3196・Flip Arguments
+- [ ] 3243・FlattenDepth
+- [ ] 3326・BEM style string
+- [ ] 3376・InorderTraversal
+- [ ] 4179・Flip
+- [ ] 4182・Fibonacci Sequence
+- [ ] 4260・文字の組み合わせ
+- [ ] 4425・Greater Than
+- [ ] 4471・Zip
+- [ ] 4484・IsTuple
+- [ ] 4499・Chunk
+- [ ] 4518・Fill
+- [ ] 4803・Trim Right
+- [ ] 5117・Without
+- [ ] 5140・Trunc
+- [ ] 5153・IndexOf
+- [ ] 5310・Join
+- [ ] 5317・LastIndexOf
+- [ ] 5360・Unique
+- [ ] 5821・MapTypes
+- [ ] 7544・Construct Tuple
+- [ ] 8640・Number Range
+- [ ] 8767・Combination
+- [ ] 8987・Subsequence
+- [ ] 9142・CheckRepeatedChars
+- [ ] 9286・FirstUniqueCharIndex
+- [x] 9616・Parse URL Params
+- [ ] 9896・GetMiddleElement
+- [ ] 9898・Appear only once
+- [ ] 9989・Count Element Number To Object
+- [ ] 10969・Integer
+- [ ] 16259・ToPrimitive
+- [ ] 17973・DeepMutable
+- [ ] 18142・All
+- [ ] 18220・Filter
+- [ ] 21104・FindAll
+- [ ] 21106・Combination key type
+- [ ] 21220・Permutations of Tuple
+- [ ] 25170・Replace First
+- [ ] 25270・Transpose
+- [ ] 26401・JSON Schema to TypeScript
+- [ ] 27133・Square
+- [ ] 27152・Triangular number
+- [ ] 27862・CartesianProduct
+- [ ] 27932・MergeAll
+- [ ] 27958・CheckRepeatedTuple
+- [ ] 28333・Public Type
+- [ ] 29650・ExtractToObject
+- [ ] 29785・Deep Omit
+- [ ] 30301・IsOdd
+- [ ] 30430・Tower of hanoi
+- [ ] 30958・Pascal's triangle
+- [ ] 30970・確定した文字列リテラル
+- [ ] 34007・Compare Array Length
+- [ ] 34857・Defined Partial Record
+- [ ] 35045・Longest Common Prefix
+- [ ] 35191・Trace
+- [ ] 35252・IsAlphabet
+
+## 上級 (55)
+
+- [ ] 6・Simple Vue
+- [x] 17・Currying 1
+- [ ] 55・Union to Intersection
+- [ ] 57・Get Required
+- [x] 59・Get Optional
+- [ ] 89・Required Keys
+- [ ] 90・Optional Keys
+- [ ] 112・Capitalize Words
+- [ ] 114・CamelCase
+- [ ] 147・C-printf Parser
+- [ ] 213・Vue Basic Props
+- [x] 223・IsAny
+- [x] 270・Typed Get
+- [ ] 300・String to Number
+- [x] 399・Tuple Filter
+- [ ] 472・Tuple to Enum Object
+- [ ] 545・printf
+- [ ] 553・Deep object to unique
+- [ ] 651・Length of String 2
+- [ ] 730・Union to Tuple
+- [ ] 847・String Join
+- [ ] 956・DeepPick
+- [ ] 1290・Pinia
+- [ ] 1383・Camelize
+- [x] 2059・Drop String
+- [ ] 2822・Split
+- [ ] 2828・ClassPublicKeys
+- [ ] 2857・IsRequiredKey
+- [ ] 2949・ObjectFromEntries
+- [ ] 4037・IsPalindrome
+- [x] 5181・Mutable Keys
+- [ ] 5423・Intersection
+- [ ] 6141・Binary to Decimal
+- [ ] 7258・Object Key Paths
+- [ ] 8804・Two Sum
+- [ ] 9155・ValidDate
+- [x] 9160・Assign
+- [ ] 9384・Maximum
+- [ ] 9775・Capitalize Nest Object Keys
+- [ ] 13580・Replace Union
+- [ ] 14080・FizzBuzz
+- [ ] 14188・Run-length encoding
+- [x] 15260・Tree path array
+- [ ] 19458・SnakeCase
+- [ ] 25747・IsNegativeNumber
+- [ ] 28143・OptionalUndefined
+- [ ] 30178・Unique Items
+- [ ] 30575・BitwiseXOR
+- [ ] 31797・Sudoku
+- [ ] 31824・Length of String 3
+- [ ] 32427・Unbox
+- [ ] 32532・Binary Addition
+- [ ] 33763・Union to Object from key
+- [ ] 34286・Take Elements
+- [ ] 35314・Valid Sudoku
+
+## 最上級 (17)
+
+- [ ] 5・Get Readonly Keys
+- [ ] 151・Query String Parser
+- [ ] 216・Slice
+- [ ] 274・Integers Comparator
+- [ ] 462・Currying 2
+- [ ] 476・Sum
+- [ ] 517・Multiply
+- [ ] 697・Tag
+- [ ] 734・Inclusive Range
+- [ ] 741・Sort
+- [ ] 869・DistributeUnions
+- [ ] 925・Assert Array Index
+- [ ] 6228・JSON Parser
+- [ ] 7561・Subtract
+- [ ] 31447・CountReversePairs
+- [ ] 31997・Parameter Intersection
+- [ ] 33345・Dynamic Route
