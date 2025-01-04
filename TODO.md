@@ -81,7 +81,7 @@ https://github.com/type-challenges/type-challenges/blob/f11cbc4fd96b20b7c8728e78
 - [ ] 4803・Trim Right
 - [ ] 5117・Without
 - [ ] 5140・Trunc
-- [ ] 5153・IndexOf
+- [x] 5153・IndexOf
 - [ ] 5310・Join
 - [ ] 5317・LastIndexOf
 - [ ] 5360・Unique
