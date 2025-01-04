@@ -190,7 +190,7 @@ https://github.com/type-challenges/type-challenges/blob/f11cbc4fd96b20b7c8728e78
 - [ ] 216・Slice
 - [ ] 274・Integers Comparator
 - [ ] 462・Currying 2
-- [ ] 476・Sum
+- [x] 476・Sum (TODO: bigint)
 - [ ] 517・Multiply
 - [ ] 697・Tag
 - [ ] 734・Inclusive Range
