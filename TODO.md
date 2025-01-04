@@ -86,7 +86,7 @@ https://github.com/type-challenges/type-challenges/blob/f11cbc4fd96b20b7c8728e78
 - [ ] 5317・LastIndexOf
 - [ ] 5360・Unique
 - [ ] 5821・MapTypes
-- [ ] 7544・Construct Tuple
+- [x] 7544・Construct Tuple
 - [ ] 8640・Number Range
 - [ ] 8767・Combination
 - [ ] 8987・Subsequence
